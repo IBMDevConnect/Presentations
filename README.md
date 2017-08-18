@@ -1,3 +1,3 @@
 # Presentations
 
-All the decks used in the 3 tracks - Cognitive, Hybrid Cloud & Data Science are available in the respective folders
+All the decks presented in Developer Connect sessions are available under respective location folders
